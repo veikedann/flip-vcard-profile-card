@@ -17,10 +17,3 @@ Get the code
 `https://github.com/veikedann/flip-vcard-profile-card.git`
 
 
-=======
-
-
-
-
-
->>>>>>> 1044bb305a365b8fb3a7f9b8a70845ae07a09e44
