@@ -10,6 +10,9 @@ Fully responsive and compatible with all devices, vCard is designed with HTML, C
 
 [View Demo](https://veikedann.github.io/flip-vcard-profile-card/)
 
-## Live Preview
+## Set up
 
-[View Demo](https://veikedann.github.io/flip-vcard-profile-card/)
+Get the code
+`https://github.com/veikedann/flip-vcard-profile-card.git`
+
+
